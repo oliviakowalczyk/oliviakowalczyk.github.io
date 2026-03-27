@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Olivia S. Kowalczyk, PhD
+bio: Neuroimaging scientist advancing methods to study the brain and spinal cord.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -17,10 +17,11 @@ dark-theme: auto
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-source: assets/files/kowalczyk_cv.pdf
+#resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://oliviakowalczyk.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,26 +35,20 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
 linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+github: oliviakowalczyk
+scholar: citations?hl=en&user=D8UaQUMAAAAJ
+email: olivia.kowalczyk@kcl.ac.uk
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Olivia S. Kowalczyk
+    bio: Neuroimaging scientist advancing methods to study the brain and spinal cord.
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
