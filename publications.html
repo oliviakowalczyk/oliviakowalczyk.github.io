@@ -9,15 +9,15 @@ layout: page
 .publication .title a { text-decoration: none; }
 .publication .title a:hover { text-decoration: underline; }
 .publication .authors { color: #666; font-weight: 300; }
-.publication .venue { font-style: italic; }
-.publication .links { font-size: 0.9em; }
+.publication .venue { font-style: italic; font-weight: 300; }
+.publication .links { font-size: 0.9em; font-weight: 500;}
 .publication .links a { margin-right: 8px; }
 </style>
 
 {% for pub in site.data.publications %}
 <div class="publication">
   <span class="title">{% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</span><br>
-  <span class="authors">{{ pub.authors | replace: "Kowalczyk, O.S.", "<strong>Kowalczyk, O.S.</strong>" | replace: "Kowalczyk, O.", "<strong>Kowalczyk, O.S.</strong>" }}</span><br>
+  <span class="authors">{{ pub.authors | replace: "Kowalczyk, O.S.", "<strong>Kowalczyk, O.S.</strong>" | replace: "Kowalczyk, O.", "<strong>Kowalczyk, O.</strong>" }}</span><br>
   <span class="venue">{{ pub.venue }}</span>, {{ pub.year }}
   <span class="links">
     {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
