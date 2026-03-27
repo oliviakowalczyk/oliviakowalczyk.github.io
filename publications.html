@@ -3,15 +3,26 @@ title: Publications
 layout: page
 ---
 
-<ul class="publications">
+<style>
+.publication { margin-bottom: 1.5em; }
+.publication .title { font-weight: 500; }
+.publication .title a { text-decoration: none; }
+.publication .title a:hover { text-decoration: underline; }
+.publication .authors { color: #666; font-weight: 300; }
+.publication .venue { font-style: italic; }
+.publication .links { font-size: 0.9em; }
+.publication .links a { margin-right: 8px; }
+</style>
+
 {% for pub in site.data.publications %}
-  <li>
-    <strong>{{ pub.title }}</strong><br>
-    {{ pub.authors }}<br>
-    <em>{{ pub.venue }}</em>, {{ pub.year }}
-    {% if pub.doi %} | <a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
-    {% if pub.arxiv %} | <a href="https://arxiv.org/abs/{{ pub.arxiv }}" target="_blank">arXiv</a>{% endif %}
-    {% if pub.pdf %} | <a href="{{ pub.pdf }}" target="_blank">PDF</a>{% endif %}
-  </li>
+<div class="publication">
+  <span class="title">{% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</span><br>
+  <span class="authors">{{ pub.authors | replace: "Kowalczyk, O.S.", "<strong>Kowalczyk, O.S.</strong>" | replace: "Kowalczyk, O.", "<strong>Kowalczyk, O.S.</strong>" }}</span><br>
+  <span class="venue">{{ pub.venue }}</span>, {{ pub.year }}
+  <span class="links">
+    {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
+    {% if pub.arxiv %}<a href="https://arxiv.org/abs/{{ pub.arxiv }}" target="_blank">arXiv</a>{% endif %}
+    {% if pub.pdf %}<a href="{{ pub.pdf }}" target="_blank">PDF</a>{% endif %}
+  </span>
+</div>
 {% endfor %}
-</ul>
