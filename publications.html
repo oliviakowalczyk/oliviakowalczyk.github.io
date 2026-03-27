@@ -7,11 +7,8 @@ layout: page
 
 <script>
 (async function() {
-  const authorId = '{{ site.semanticscholar }}';
-  if (!authorId) {
-    document.getElementById('publications').innerHTML = '<p>No Semantic Scholar ID configured.</p>';
-    return;
-  }
+  // Using your Semantic Scholar author ID directly
+  const authorId = '1394343972';
   
   try {
     const response = await fetch(
@@ -32,23 +29,23 @@ layout: page
       const authors = paper.authors ? paper.authors.map(a => a.name).join(', ') : '';
       const venue = paper.venue || '';
       const year = paper.year || '';
-      const doi = paper.externalIds?.DOI || '';
-      const arxiv = paper.externalIds?.ArXiv || '';
+      const doi = paper.externalIds && paper.externalIds.DOI ? paper.externalIds.DOI : '';
+      const arxiv = paper.externalIds && paper.externalIds.ArXiv ? paper.externalIds.ArXiv : '';
       
-      html += `<li>
-        <strong><a href="${paper.url}" target="_blank">${paper.title}</a></strong><br>
-        ${authors}<br>
-        <em>${venue}</em>${venue && year ? ', ' : ''}${year}`;
-      if (doi) html += ` | <a href="https://doi.org/${doi}" target="_blank">DOI</a>`;
-      if (arxiv) html += ` | <a href="https://arxiv.org/abs/${arxiv}" target="_blank">arXiv</a>`;
-      html += `</li>`;
+      html += '<li>';
+      html += '<strong><a href="' + paper.url + '" target="_blank">' + paper.title + '</a></strong><br>';
+      html += authors + '<br>';
+      html += '<em>' + venue + '</em>' + (venue && year ? ', ' : '') + year;
+      if (doi) html += ' | <a href="https://doi.org/' + doi + '" target="_blank">DOI</a>';
+      if (arxiv) html += ' | <a href="https://arxiv.org/abs/' + arxiv + '" target="_blank">arXiv</a>';
+      html += '</li>';
     }
     html += '</ul>';
     
     document.getElementById('publications').innerHTML = html;
   } catch (error) {
     console.error('Failed to fetch publications:', error);
-    document.getElementById('publications').innerHTML = '<p>Failed to load publications.</p>';
+    document.getElementById('publications').innerHTML = '<p>Failed to load publications. Check console for details.</p>';
   }
 })();
 </script>
