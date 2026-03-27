@@ -18,8 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-source: assets/files/kowalczyk_cv.pdf
-#resume-url: https://google.com/?q=my+resume
+resume-url: assets/files/kowalczyk_cv.pdf
 
 url: https://oliviakowalczyk.github.io
 # your url: https://USERNAME.github.io
