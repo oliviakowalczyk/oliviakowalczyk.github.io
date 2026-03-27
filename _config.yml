@@ -37,13 +37,14 @@ disqus:
 #facebook: myfacebook
 #twitter: mytwitter
 #instagram: myinstagram
-linkedin: mylinkedin
-github: oliviakowalczyk
+#linkedin: mylinkedin
 googlescholar: citations?hl=en&user=D8UaQUMAAAAJ
+orcid: 0000-0002-6543-290X
+github: oliviakowalczyk
 email: olivia.kowalczyk@kcl.ac.uk
 
 authors:
-  johndoe:
+  oliviakowalczyk:
     name: Olivia S. Kowalczyk
     bio: Neuroimaging scientist advancing methods to study the brain and spinal cord.
     external-image: false
