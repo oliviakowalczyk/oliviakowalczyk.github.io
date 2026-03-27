@@ -20,7 +20,7 @@ layout: page
 <div class="publication">
   <span class="title">{% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</span><br>
   <span class="authors">{{ pub.authors | replace: "Kowalczyk, O.S.", "<span class='me'>Kowalczyk, O.S.</span>" | replace: "Kowalczyk, O.", "<span class='me'>Kowalczyk, O.</span>" }}</span><br>
-  <span class="venue">{{ pub.venue }}</span>, <span class="year">{{ pub.year }}</span>
+  <span class="venue">{{ pub.venue }}</span><span class="year">, {{ pub.year }}</span>
   <span class="links">
     {% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
     {% if pub.arxiv %}<a href="https://arxiv.org/abs/{{ pub.arxiv }}" target="_blank">arXiv</a>{% endif %}
