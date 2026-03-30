@@ -3,7 +3,7 @@ title: Science Communication
 layout: page
 ---
 
-## Invited Talks
+# Selected invited talks
 
 ### SPM Homecoming and SPM25: New developments in neuroimaging analysis
 **2025** · [Andy's Brain Tube](https://www.youtube.com/@AndysBrainTube)
