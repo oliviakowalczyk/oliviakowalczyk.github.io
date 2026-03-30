@@ -1,5 +1,5 @@
 ---
-title: Science Communication
+title: Science communication
 layout: page
 ---
 
