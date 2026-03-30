@@ -38,22 +38,22 @@ I am committed to collaborative, transparent, and rigorous research. I serve as 
 # Selected awards & funding
 
 #### King's Prize Fellowship
-	**2023** · [King's College London](https://www.kcl.ac.uk)
+&nbsp;&nbsp;&nbsp;**2023** · [King's College London](https://www.kcl.ac.uk)
 
 #### Open Research Award
-	**2023** · [IoPPN, King's College London](https://www.kcl.ac.uk/ioppn)
+&nbsp;&nbsp;&nbsp;**2023** · [IoPPN, King's College London](https://www.kcl.ac.uk/ioppn)
 
 #### Novel Neuroimaging Approaches and Applications
-	**2023** · [NIHR Maudsley Biomedical Research Centre](https://www.maudsleybrc.nihr.ac.uk)
+&nbsp;&nbsp;&nbsp;**2023** · [NIHR Maudsley Biomedical Research Centre](https://www.maudsleybrc.nihr.ac.uk)
 
 #### OHBM Open Research Award (as part of The SPM Team)
-	**2023** · [Organization for Human Brain Mapping](https://www.humanbrainmapping.org)
+&nbsp;&nbsp;&nbsp;**2023** · [Organization for Human Brain Mapping](https://www.humanbrainmapping.org)
 
 #### SIPS Commendation (as part of The RIOT Science Club)
-	**2021** · [Society for the Improvement of Psychological Science](https://improvingpsych.org)
+&nbsp;&nbsp;&nbsp;**2021** · [Society for the Improvement of Psychological Science](https://improvingpsych.org)
 
 #### Summer Meeting Poster Prize
-	**2018** & **2021** · [British Association for Psychopharmacology](https://www.bap.org.uk)
+&nbsp;&nbsp;&nbsp;**2018** & **2021** · [British Association for Psychopharmacology](https://www.bap.org.uk)
 
 #### 4-year PhD Studentship
-	**2017** · [NIHR Maudsley Biomedical Research Centre](https://www.maudsleybrc.nihr.ac.uk)
+&nbsp;&nbsp;&nbsp;**2017** · [NIHR Maudsley Biomedical Research Centre](https://www.maudsleybrc.nihr.ac.uk)
