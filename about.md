@@ -4,9 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-I am a neuroimaging scientist developing methods to study the brain and spinal cord, and translating these into clinically meaningful biomarkers of central nervous system conditions.
-
-I hold a King's Prize Fellowship at the [Department of Neuroimaging](https://www.kcl.ac.uk/neuroscience/about/departments/neuroimaging), Institute of Psychiatry, Psychology & Neuroscience, King's College London, and lead SPM Training and Documentation initiatives at the [Functional Imaging Laboratory](https://www.in.fil.ion.ucl.ac.uk), University College London.
+{% include about-intro.html %}
 
 ---
 
