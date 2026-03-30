@@ -10,7 +10,7 @@ I hold a King's Prize Fellowship at the [Department of Neuroimaging](https://www
 
 ---
 
-## Research
+# Research
 
 My work spans mechanistic neuroscience, neuroimaging of the brain and spinal cord, and clinical translation. 
 
@@ -22,14 +22,14 @@ My work spans mechanistic neuroscience, neuroimaging of the brain and spinal cor
 
 ---
 
-## Open scholarship
+# Open scholarship
 
 I am committed to collaborative, transparent, and rigorous research. I serve as [UKRN Local Network Lead for King's College London](https://www.ukrn.org/search-results-local-network-leads/?region=London) and as a member of the [British Neuroscience Association Credibility Advisory Board](https://bnacredibility.org.uk/credibility-advisory-board). 
 
 
 ---
 
-## Teaching
+# Teaching
 
 **Themes:** neuroimaging methods, research methods, open scholarship  
 **Format:** lectures, small group tutorials, workshops (online and in-person)  
@@ -37,7 +37,7 @@ I am committed to collaborative, transparent, and rigorous research. I serve as 
 
 ---
 
-## Selected awards & funding
+# Selected awards & funding
 
 **King's Prize Fellowship**, [King's College London](https://www.kcl.ac.uk), 2023
 **Open Research Award**, [IoPPN, King's College London](https://www.kcl.ac.uk/ioppn), 2023
