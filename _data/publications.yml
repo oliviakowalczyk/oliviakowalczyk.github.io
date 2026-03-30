@@ -12,23 +12,23 @@
   year: 2026
   doi: "10.1097/PR9.0000000000001425"
 
+- title: "Test-retest reliability of sensorimotor activity measured with spinal cord fMRI"
+  authors: "Kowalczyk, O.S., Medina, S., Venezia, A., Tsivaka, D., Ahmed, A.I., Williams, S.C.R., Brooks, J.C.W., Lythgoe, D.J., & Howard, M.A."
+  venue: "bioRxiv"
+  year: 2025
+  doi: "10.1101/2025.09.01.123456"
+
 - title: "SPM 25: open source neuroimaging analysis software"
   authors: "Tierney, T.M., Alexander, N.A., Ashburner, J., Avila, N.L., Balbastre, Y., Barnes, G., ..., Kowalczyk, O.S., ..., & Zeidman, P."
   venue: "Journal of Open Source Software"
   year: 2025
   doi: "10.21105/joss.07725"
 
-- title: "SPM —- 30 years and beyond"
+- title: "SPM — 30 years and beyond"
   authors: "Zeidman, P., Ashburner, J., Barnes, G., Kowalczyk, O.S., Lambert, C., Litvak, V., Nichols, T.E., Parr, T., Tierney, T.M., & Friston, K."
   venue: "Cerebral Cortex"
   year: 2025
   doi: "10.1093/cercor/bhaf234"
-
-- title: "Test-retest reliability of sensorimotor activity measured with spinal cord fMRI"
-  authors: "Kowalczyk, O.S., Medina, S., Venezia, A., Tsivaka, D., Ahmed, A.I., Williams, S.C.R., Brooks, J.C.W., Lythgoe, D.J., & Howard, M.A."
-  venue: "bioRxiv"
-  year: 2025
-  doi: "10.1101/2025.09.01.123456"
 
 - title: "Differential effects of a single dose of Lisdexamfetamine and Guanfacine on cognitive function in children with ADHD"
   authors: "El Masri, S., Kowalczyk, O.S., Chiu, T.H., Criaud, M., Lukito, S., Mazibuko, N., ..., & Rubia, K."
