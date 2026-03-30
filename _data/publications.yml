@@ -13,13 +13,13 @@
   doi: "10.1097/PR9.0000000000001425"
 
 - title: "SPM 25: open source neuroimaging analysis software"
-  authors: "Tierney, T.M., Alexander, N.A., Ashburner, J., Avila, N.L., Balbastre, Y., Barnes, G., ... & Kowalczyk, O.S., et al."
+  authors: "Tierney, T.M., Alexander, N.A., Ashburner, J., Avila, N.L., Balbastre, Y., Barnes, G., ..., Kowalczyk, O.S., ..., & Zeidman, P."
   venue: "Journal of Open Source Software"
   year: 2025
   doi: "10.21105/joss.07725"
 
 - title: "SPM—30 years and beyond"
-  authors: "Zeidman, P., Ashburner, J., Barnes, G., Kowalczyk, O., Lambert, C., Litvak, V., Nichols, T.E., Parr, T., Tierney, T.M., & Friston, K."
+  authors: "Zeidman, P., Ashburner, J., Barnes, G., Kowalczyk, O.S., Lambert, C., Litvak, V., Nichols, T.E., Parr, T., Tierney, T.M., & Friston, K."
   venue: "Cerebral Cortex"
   year: 2025
   doi: "10.1093/cercor/bhaf234"
@@ -37,13 +37,13 @@
   doi: "10.3389/fpsyt.2025.1676472"
 
 - title: "EPISeg: Automated segmentation of the spinal cord on echo planar images using open-access multi-center data"
-  authors: "Banerjee, R., Kaptan, M., Tinnermann, A., Khatibi, A., Dabbagh, A., Büchel, C., ... & Kowalczyk, O.S., et al."
+  authors: "Banerjee, R., Kaptan, M., Tinnermann, A., Khatibi, A., Dabbagh, A., Büchel, C., ..., Kowalczyk, O.S., ..., & Cohen-Adad, J."
   venue: "Imaging Neuroscience"
   year: 2025
   doi: "10.1162/imag_a_00469"
 
 - title: "The individual and situational factors predicting unethical behaviour in the workplace: a direct and conceptual replication of Jones & Kavanagh (1996)"
-  authors: "Evans, T.R., Bartlett, J.E., Gourdon-Kanhukamwe, A., Allen, T., ... & Kowalczyk, O.S., et al."
+  authors: "Evans, T.R., Bartlett, J.E., Gourdon-Kanhukamwe, A., Allen, T., ..., Kowalczyk, O.S., ..., & Burns, C."
   venue: "Comprehensive Results in Social Psychology"
   year: 2025
   doi: "10.1080/23743603.2025.2450147"
@@ -137,12 +137,6 @@
   venue: "NeuroImage"
   year: 2018
   doi: "10.1016/j.neuroimage.2018.03.040"
-
-- title: "Academic job offers that mentioned open science"
-  authors: "Schönbrodt, F., Mellor, D.T., Bergmann, C., Penfold, N., Westwood, S., Lautarescu, A., Kowalczyk, O., ... et al."
-  venue: "Open Science Framework"
-  year: 2018
-  doi: "10.17605/OSF.IO/7JBNT"
 
 - title: "Investigating the neural correlates of smoking: feasibility and results of combining electronic cigarettes with fMRI"
   authors: "Wall, M.B., Mentink, A., Lyons, G., Kowalczyk, O.S., Demetriou, L., & Newbould, R.D."
