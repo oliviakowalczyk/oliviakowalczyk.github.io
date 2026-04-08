@@ -16,13 +16,13 @@
   authors: "Kowalczyk, O.S., Medina, S., Venezia, A., Tsivaka, D., Ahmed, A.I., Williams, S.C.R., Brooks, J.C.W., Lythgoe, D.J., & Howard, M.A."
   venue: "bioRxiv"
   year: 2025
-  doi: "10.1101/2025.09.01.123456"
+  doi: "10.1101/2025.09.07.674708"
 
 - title: "SPM 25: open source neuroimaging analysis software"
   authors: "Tierney, T.M., Alexander, N.A., Ashburner, J., Avila, N.L., Balbastre, Y., Barnes, G., ..., Kowalczyk, O.S., ..., & Zeidman, P."
   venue: "Journal of Open Source Software"
   year: 2025
-  doi: "10.21105/joss.07725"
+  doi: "10.21105/joss.08103"
 
 - title: "SPM — 30 years and beyond"
   authors: "Zeidman, P., Ashburner, J., Barnes, G., Kowalczyk, O.S., Lambert, C., Litvak, V., Nichols, T.E., Parr, T., Tierney, T.M., & Friston, K."
@@ -30,7 +30,7 @@
   year: 2025
   doi: "10.1093/cercor/bhaf234"
 
-- title: "Differential effects of a single dose of Lisdexamfetamine and Guanfacine on cognitive function in children with ADHD"
+- title: "Differential effects of a single dose of lisdexamfetamine and guanfacine on cognitive function in children with ADHD"
   authors: "El Masri, S., Kowalczyk, O.S., Chiu, T.H., Criaud, M., Lukito, S., Mazibuko, N., ..., & Rubia, K."
   venue: "Frontiers in Psychiatry"
   year: 2025
@@ -40,7 +40,7 @@
   authors: "Banerjee, R., Kaptan, M., Tinnermann, A., Khatibi, A., Dabbagh, A., Büchel, C., ..., Kowalczyk, O.S., ..., & Cohen-Adad, J."
   venue: "Imaging Neuroscience"
   year: 2025
-  doi: "10.1162/imag_a_00469"
+  doi: "10.1162/IMAG.a.98"
 
 - title: "The individual and situational factors predicting unethical behaviour in the workplace: a direct and conceptual replication of Jones & Kavanagh (1996)"
   authors: "Evans, T.R., Bartlett, J.E., Gourdon-Kanhukamwe, A., Allen, T., ..., Kowalczyk, O.S., ..., & Burns, C."
@@ -52,7 +52,7 @@
   authors: "Lukito, S., Lam, S.-L., Criaud, M., Westwood, S., Kowalczyk, O.S., Curran, S., ..., & Rubia, K."
   venue: "Philosophical Transactions of the Royal Society B: Biological Sciences"
   year: 2024
-  doi: "10.1098/rstb.2023.0092"
+  doi: "10.1098/rstb.2023.0097"
 
 - title: "Spinal fMRI demonstrates segmental organisation of functionally connected networks in the cervical spinal cord: A test–retest reliability study"
   authors: "Kowalczyk, O.S., Medina, S., Tsivaka, D., McMahon, S.B., Williams, S.C.R., Brooks, J.C.W., Lythgoe, D.J., & Howard, M.A."
@@ -70,19 +70,19 @@
   authors: "Kowalczyk, O.S., Cubillo, A.I., Criaud, M., Giampietro, V., O'Daly, O.G., Mehta, M.A., & Rubia, K."
   venue: "Psychopharmacology"
   year: 2023
-  doi: "10.1007/s00213-023-06420-1"
+  doi: "10.1007/s00213-023-06422-7"
 
 - title: "Harnessing the power of endogenous pain control mechanisms for novel therapeutics: how might innovations in neuroimaging help?"
   authors: "Howard, M.A., Lawn, T., & Kowalczyk, O.S."
   venue: "Current Opinion in Supportive and Palliative Care"
   year: 2023
-  doi: "10.1097/SPC.0000000000000657"
+  doi: "10.1097/SPC.0000000000000653"
 
 - title: "A second-order and slice-specific linear shimming technique to improve spinal cord fMRI"
   authors: "Tsivaka, D., Williams, S.C.R., Medina, S., Kowalczyk, O.S., Brooks, J.C.W., Howard, M.A., Lythgoe, D.J., & Tsougos, I."
   venue: "Magnetic Resonance Imaging"
   year: 2023
-  doi: "10.1016/j.mri.2023.05.007"
+  doi: "10.1016/j.mri.2023.06.012"
 
 - title: "Task-based functional connectivity in attention-deficit/hyperactivity disorder: a systematic review"
   authors: "Kowalczyk, O.S., Mehta, M.A., O'Daly, O.G., & Criaud, M."
@@ -94,13 +94,13 @@
   authors: "Lam, S.-L., Criaud, M., Lukito, S., Westwood, S.J., Agbedjro, D., Kowalczyk, O.S., ..., & Rubia, K."
   venue: "American Journal of Psychiatry"
   year: 2022
-  doi: "10.1176/appi.ajp.211101104"
+  doi: "10.1176/appi.ajp.21100999"
 
 - title: "The effect of transcranial direct current stimulation (tDCS) combined with cognitive training on EEG spectral power in adolescent boys with ADHD: A double-blind, randomized, sham-controlled trial"
   authors: "Westwood, S.J., Bozhilova, N., Criaud, M., Lam, S.-L., Lukito, S., Wallace-Hanlon, S., Kowalczyk, O.S., ..., & Rubia, K."
   venue: "IBRO Neuroscience Reports"
   year: 2022
-  doi: "10.1016/j.ibneur.2021.11.005"
+  doi: "10.1016/j.ibneur.2021.12.005"
 
 - title: "What senior academics can do to support reproducible and open research: a short, three-step guide"
   authors: "Kowalczyk, O.S., Lautarescu, A., Blok, E., Dall'Aglio, L., & Westwood, S.J."
@@ -136,7 +136,7 @@
   authors: "Demetriou, L., Kowalczyk, O.S., Tyson, G., Bello, T., Newbould, R.D., & Wall, M.B."
   venue: "NeuroImage"
   year: 2018
-  doi: "10.1016/j.neuroimage.2018.03.040"
+  doi: "10.1016/j.neuroimage.2018.05.011"
 
 - title: "Investigating the neural correlates of smoking: feasibility and results of combining electronic cigarettes with fMRI"
   authors: "Wall, M.B., Mentink, A., Lyons, G., Kowalczyk, O.S., Demetriou, L., & Newbould, R.D."
